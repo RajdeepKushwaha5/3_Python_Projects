@@ -19,7 +19,8 @@ This repository contains a collection of interactive web applications built usin
 - Clean and responsive UI
 
 ### 🖼️ Preview    
-(image1.png)
+![Preview](image1.png)
+
 
 ### 🔧 Technologies Used
 - Python
