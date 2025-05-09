@@ -40,8 +40,8 @@ This repository contains a collection of interactive web applications built usin
 - Secure API key handling with `python-dotenv`
 
 ### 🖼️ Preview  
-*Add screenshot here*  
-`![ResumeGenix Screenshot](path/to/image2.png)`
+![Preview](image2.png)
+
 
 ### 🔧 Technologies Used
 - Python
@@ -64,8 +64,8 @@ This repository contains a collection of interactive web applications built usin
 - User-friendly interface built with Streamlit
 
 ### 🖼️ Preview  
-*Add screenshot here*  
-`![VisionSnap AI Screenshot](path/to/image3.png)`
+![Preview](image3.png)
+
 
 ### 🔧 Technologies Used
 - Python
