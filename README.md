@@ -18,9 +18,8 @@ This repository contains a collection of interactive web applications built usin
 - Generate friendly messages based on user input
 - Clean and responsive UI
 
-### 🖼️ Preview  
-*Add screenshot here*  
-`![CalcHelloAI Screenshot](/image1.png)`
+### 🖼️ Preview    
+(image1.png)
 
 ### 🔧 Technologies Used
 - Python
