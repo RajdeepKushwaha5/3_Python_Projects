@@ -76,22 +76,4 @@ This repository contains a collection of interactive web applications built usin
 
 ---
 
-## 🛠️ How to Run Any Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-Create a virtual environment:
-bash
-python -m venv venv
-source venv/bin/activate  # On Windows use venv\Scripts\activate
-
-Install dependencies:
-bash
-pip install -r requirements.txt
-
-Run the app:
-bash
-streamlit run app.py
-Note: Each project may have a separate app.py file. Navigate to the correct folder before running.
