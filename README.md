@@ -20,7 +20,7 @@ This repository contains a collection of interactive web applications built usin
 
 ### 🖼️ Preview  
 *Add screenshot here*  
-`![CalcHelloAI Screenshot](path/to/image1.png)`
+`![CalcHelloAI Screenshot](/image1.png)`
 
 ### 🔧 Technologies Used
 - Python
